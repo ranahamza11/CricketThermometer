@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cricket Thermometer</string>
+    <string name="image_of_the_thermometer">image of the thermometer</string>
+    <string name="info_of_cricket_chirps">Did you know you can determine the temperature outside by counting the number of chirps the cricket makes? Just count the number of chirps one makes in 25 seconds and place that number in the box below:</string>
+    <string name="calculate_temperature">Calculate Temperature</string>
+    <string name="hint_on_input_chirps">Number of chirp in 25 seconds</string>
+
+    <string name="result_text">The approximate temperature outside is %1$s degree celsius.</string>
+</resources>
